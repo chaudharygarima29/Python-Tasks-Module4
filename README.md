@@ -1,5 +1,5 @@
 # Python-Tasks-Module4
-A collection of simple Python programs demonstrating Functions in Python.
+A collection of simple Python programs demonstrating Functions and Modules in Python.
 
 Task 1: Calculate Factorial Using a Function 
 
